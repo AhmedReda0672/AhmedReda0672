@@ -100,8 +100,4 @@ class AhmedReda:
 <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0a66c2" /></a>
 <a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" /></a>
 
-<br/><br/>
 
-<img src="https://raw.githubusercontent.com/AhmedReda0672/AhmedReda0672/output/github-snake-dark.svg" alt="snake animation" width="100%" />
-
-</div>
