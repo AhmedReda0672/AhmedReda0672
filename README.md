@@ -102,11 +102,6 @@ class AhmedReda:
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:bc8cff,50:1f6feb,100:0d1117&height=100&section=footer" width="100%" />
-
-</div>
-## 🐍 Contribution Snake
-
-<div align="center">
 <img src="https://raw.githubusercontent.com/AhmedReda0672/AhmedReda0672/output/github-snake-dark.svg" alt="snake animation" width="100%" />
+
 </div>
