@@ -87,7 +87,7 @@ class AhmedReda:
 ## 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg" alt="snake animation" width="100%" />
+<img src="https://raw.githubusercontent.com/AhmedReda0672/AhmedReda0672/output/github-snake-dark.svg" alt="snake animation" width="100%" />
 </div>
 
 ---
